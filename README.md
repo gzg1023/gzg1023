@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there this is gzg1023 👋
+- 🔭 I’m currently working on china
+- 🌱 I’m currently learning Front end development
 
 <!--
 **gzg1023/gzg1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
