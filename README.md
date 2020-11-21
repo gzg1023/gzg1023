@@ -4,4 +4,4 @@
 - 🦉  我喜欢和不同思想的人沟通，认识更多的朋友
 - 🦀  感谢github上面的所有开源贡献者，向你们学习
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gzg1023&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gzg1023&show_icons=true&theme=graywhite)
