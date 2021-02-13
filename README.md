@@ -1,5 +1,4 @@
-### Hi It's gzg1023 大家好我是清尘 🥳
-- 👷‍  是一名web前端社畜，技术菜，但也在学习中
+### Hi It's gzg1023 / 清尘 🥳
 - 🎡  Front end Engineer 
 - 👾   I like to communicate with people with different ideas and make more friends
 - 🦀   Thanks to all the open source contributors on GitHub to learn from you
