@@ -25,6 +25,8 @@
 
 - 基于node.js搭建的工具脚手架（配合各种模版使用）：https://github.com/gzg1023/trex-cli
 
+- 基于webpack4和vue2 搭建的vue ssr模版：https://github.com/gzg1023/vue2-ssr-template
+
 ##### 学习笔记
 
 - vue2.x 源码学习记录：https://github.com/gzg1023/vue2-fork
