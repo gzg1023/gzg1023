@@ -1,5 +1,5 @@
 ### Hi It's gzg1023 / 清尘 🥳
-- 🎡  Front end Engineer 
+- 🎡  Front end Engineer ,Open source began in 2021
 - 👾   I like to communicate with people with different ideas and make more friends
 - 🦀   Thanks to all the open source contributors on GitHub to learn from you
 
@@ -12,26 +12,25 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=Google-Chrome&logoColor=fff)
 
 
-#### 我的项目
+### My project
 
-##### 组件库
+#### component gallery
 
-- vue组件库（开坑未填）：https://github.com/gzg1023/lawn-ui
-- react组件库：https://github.com/boty-design/boty-design
+- Vue component library：https://github.com/gzg1023/lawn-ui
+- React component library：https://github.com/boty-design/boty-design
 
-##### 前端工程化
+####  Front end engineering
 
-- 基于webpack5和vue3搭建的模版页面： https://github.com/gzg1023/vue3-ts-template
+- The lightweight tool scaffold based on node.js：https://github.com/gzg1023/trex-cli
 
-- 基于node.js搭建的工具脚手架（配合各种模版使用）：https://github.com/gzg1023/trex-cli
+- Template page based on webpack5 and vue3： https://github.com/gzg1023/vue3-ts-template
 
-- 基于webpack4和vue2 搭建的vue ssr模版：https://github.com/gzg1023/vue2-ssr-template
+- Vue ssr template based on webpack4 and vue2：https://github.com/gzg1023/vue2-ssr-template
 
-##### 学习笔记
+#### Learning notes
 
 - vue2.x 源码学习记录：https://github.com/gzg1023/vue2-fork
 
 - snabbdom 源码学习记录：https://github.com/gzg1023/snabbdom-fork
 
-- 手写各种函数和特性：https://github.com/gzg1023/fackAchieve
-
+- Handwriting various functions and features：https://github.com/gzg1023/fackAchieve
