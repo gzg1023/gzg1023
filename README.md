@@ -8,8 +8,8 @@
 
 #### Engineering foundation.
 
-- The lightweight tool scaffold based on node.js：https://github.com/gzg1023/trex-cli
+- The lightweight tool scaffold based on node.js：https://github.com/bullet-fe/trex-cli
 
-- Template page based on webpack5 and vue3： https://github.com/gzg1023/vue3-ts-template
+- Template page based on webpack5 and vue3： https://github.com/bullet-fe/vue3-ts-template
 
-- Vue ssr template based on webpack4 and vue2：https://github.com/gzg1023/vue2-ssr-template
+- Vue ssr template based on webpack4 and vue2：https://github.com/bullet-fe/vue2-ssr-template
