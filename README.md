@@ -1,15 +1,29 @@
-### Hi It's gzg1023 / 清尘 🥳
-- 🎡  Front end Engineer ,Open source began in 2021
-- 👾   I like to communicate with people with different ideas and make more friends
-- 🎃   Focus on front-end infrastructure and cutting-edge technology exploration.
+<div align="center">
+  
+# ⚡ gzg1023 / RyanGuo
+**Front-end Engineer · Engineering Infrastructure · AI Workflow Explorer**
 
+<img src="https://img.shields.io/badge/Front--end-Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Workflow-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backpacker-World--Explorer-green?style=for-the-badge"/>
 
-### My project
+<br/><br/>
 
-#### Engineering foundation.
+### 🛰 “Build systems. Automate workflows. Think in models.”
 
-- The lightweight tool scaffold based on node.js：https://github.com/bullet-fe/trex-cli
+</div>
 
-- Template page based on webpack5 and vue3： https://github.com/bullet-fe/vue3-ts-template
+---
 
-- Vue ssr template based on webpack4 and vue2：https://github.com/bullet-fe/vue2-ssr-template
+## 🧰 Tech Stack
+
+**Frontend:** Vue 2/3 · React · TypeScript · Vite · Webpack  
+**Infra:** Node.js · CI/CD · Micro-frontends (qiankun)  
+**AI Tools:** Cursor · ChatGPT · Copilot· n8n
+
+---
+
+## 🌍 Mindset
+
+Backpacker worldview →  
+**lightweight · resilient · portable** engineering.
