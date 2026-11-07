@@ -1,29 +1,44 @@
-# Hi, I'm Guo
+<div align="center">
 
-Frontend engineer and independent app developer with 6 years of experience across enterprise software and consumer web applications.
+# Hi, I'm Ryan 👋
 
-My background includes 3 years working on cross-border e-commerce ERP software and 2 years building consumer-facing Web and H5 applications. I also build and maintain my own products, taking them from idea to release and ongoing iteration.
+<img alt="Software Engineer" src="https://img.shields.io/badge/Software_Engineer-24292F?style=flat-square" />
+<img alt="AI Engineer" src="https://img.shields.io/badge/AI_Engineer-5263FF?style=flat-square" />
+<img alt="Forward Deployed Engineer" src="https://img.shields.io/badge/Forward_Deployed_Engineer-087F8C?style=flat-square" />
 
-## Projects
+Building products. Bringing AI into real-world workflows.
 
-### [Roll36](https://roll36.app)
-An iOS app for organizing film photography: keep rolls and scanned photos together, manage film and camera inventories, and share your photographs.
+</div>
 
-Built with SwiftUI and SwiftData, with iCloud sync, widgets, and a Share Extension.
+<br />
 
-### [JourneyStamp](https://journeystamp.app)
-A travel memory app that turns photos and notes into a personal record of places and journeys.
+### About
 
-Currently focused on a native iOS experience with local photo location processing and MapKit.
+Software engineer with a background in enterprise software and consumer applications.
 
-## Current Focus
+I build independent products and explore practical AI solutions for small businesses and cross-border e-commerce.
 
-Exploring practical AI workflows for small businesses, with a particular interest in cross-border e-commerce.
+### Experience
 
-I'm working toward connecting AI tools with business systems, making workflows visible, and keeping people involved through review and approval.
+**[LINGXING ↗](https://www.lingxing.com/) · Frontend Engineer**  
+Built enterprise ERP software for cross-border e-commerce sellers.
 
-## Technologies
+**[Lieyou ↗](https://www.lieyou.com/) · Frontend Engineer**  
+Built consumer-facing web and H5 applications, focusing on mobile user experiences.
 
-- **Web:** TypeScript, JavaScript, Vue, React
-- **Engineering:** Node.js, Vite, Webpack, CI/CD, micro-frontends
-- **iOS:** SwiftUI, SwiftData, MapKit, iCloud
+### Products
+
+**[Roll36 ↗](https://roll36.app)**  
+An iOS app for film photography. Organize your rolls and scans, manage film and camera inventories, and share your photographs.
+
+**[JourneyStamp ↗](https://journeystamp.app)**  
+A travel memory app that brings your photos, places, and journeys together in a personal archive.
+
+### Applied AI
+
+Exploring practical AI adoption for small businesses and cross-border e-commerce teams.
+
+- **Workflow automation** — Connect business tools, data, and everyday operations.
+- **AI assistants** — Bring business context and tools into task-focused assistants.
+- **Human oversight** — Make execution visible, with review, approval, and intervention.
+- **End-to-end delivery** — Develop solutions from discovery and prototyping through deployment and iteration.
