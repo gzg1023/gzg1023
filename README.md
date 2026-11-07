@@ -1,29 +1,29 @@
-<div align="center">
-  
-# ⚡ gzg1023 / RyanGuo
-**Front-end Engineer · Engineering Infrastructure · AI Workflow Explorer**
+# Hi, I'm Guo
 
-<img src="https://img.shields.io/badge/Front--end-Engineer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Workflow-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backpacker-World--Explorer-green?style=for-the-badge"/>
+Frontend engineer and independent app developer with 6 years of experience across enterprise software and consumer web applications.
 
-<br/><br/>
+My background includes 3 years working on cross-border e-commerce ERP software and 2 years building consumer-facing Web and H5 applications. I also build and maintain my own products, taking them from idea to release and ongoing iteration.
 
-### 🛰 “Build systems. Automate workflows. Think in models.”
+## Projects
 
-</div>
+### [Roll36](https://roll36.app)
+An iOS app for organizing film photography: keep rolls and scanned photos together, manage film and camera inventories, and share your photographs.
 
----
+Built with SwiftUI and SwiftData, with iCloud sync, widgets, and a Share Extension.
 
-## 🧰 Tech Stack
+### [JourneyStamp](https://journeystamp.app)
+A travel memory app that turns photos and notes into a personal record of places and journeys.
 
-**Frontend:** Vue 2/3 · React · TypeScript · Vite · Webpack  
-**Infra:** Node.js · CI/CD · Micro-frontends (qiankun)  
-**AI Tools:** Cursor · ChatGPT · Copilot· n8n
+Currently focused on a native iOS experience with local photo location processing and MapKit.
 
----
+## Current Focus
 
-## 🌍 Mindset
+Exploring practical AI workflows for small businesses, with a particular interest in cross-border e-commerce.
 
-Backpacker worldview →  
-**lightweight · resilient · portable** engineering.
+I'm working toward connecting AI tools with business systems, making workflows visible, and keeping people involved through review and approval.
+
+## Technologies
+
+- **Web:** TypeScript, JavaScript, Vue, React
+- **Engineering:** Node.js, Vite, Webpack, CI/CD, micro-frontends
+- **iOS:** SwiftUI, SwiftData, MapKit, iCloud
